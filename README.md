@@ -5,7 +5,7 @@ pintu memberitahumu siapa yang datang, lengkap dengan fotonya. Tamu menekan
 tombol, buzzer berbunyi tiga kali, LED menyala, lampu kilat menyala sesaat,
 kamera ESP32-CAM memotret, dan fotonya terkirim ke Telegram di HP-mu.
 
-Video Short (60 detik): link menyusul setelah upload
+Video Short (60 detik): https://www.youtube.com/shorts/ZwakbU1PMlU
 
 ## Cara kerja
 
